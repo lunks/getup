@@ -14,4 +14,5 @@ group :test do
   gem 'shoulda-matchers'
   gem 'factory_girl_rails'
   gem 'forgery'
+  gem 'capybara'
 end
